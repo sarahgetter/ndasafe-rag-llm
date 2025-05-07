@@ -25,15 +25,11 @@ cd ndasafe-rag-llm
 ```
 ### 2. Create and activate a virtual environment (optional but recommended)
 ```bash
-Copy
-Edit
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 ### 3. Install dependencies
 ```bash
-Copy
-Edit
 pip install -r requirements.txt
 ```
 Make sure the following are installed and running locally:
